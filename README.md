@@ -32,6 +32,7 @@ App.py: main file
 Categorize.py: news classification
 Recommendations.py: recommends the news based on the scrapped news
 Scap_nws.py: scrap news from the news website
+translation_csv.py: translates the recommended articles into multiple languages such as telugu, hindi etc.
 
 # Acknowledgments:
 Datasets used for baseline models:
