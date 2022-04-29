@@ -2,7 +2,7 @@
                                                                                                      
 
 
-Problem Statement:
+# Problem Statement:
 To overcome the challenge of information overload, the proposed news recommendation system provides personalized news for the user based on his preferences, thus saving time and giving him the news he needs. Along with personalized recommendations, the news is also categorized and displayed in the user interface. The same is delivered in a user-friendly web application.
 
 Installation (Beta Version):
