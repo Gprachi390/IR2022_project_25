@@ -1,6 +1,5 @@
 # IR2022_project_25
-
-                                                          README                                                                                                       
+                                                                                                     
 
 
 Problem Statement:
